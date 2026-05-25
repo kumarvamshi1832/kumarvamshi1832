@@ -26,7 +26,8 @@
 - 🏦 Built a **Bank Management System** using Django — live on Vercel  
 - 🏋️ Built a **Gym App** frontend using React — live on Vercel  
 - 🤝 I believe clean code + good UI = great product  
-- 📬 Reach me at **kumarvamshi1832@gmail.com**  
+- 📬 Reach me at **kumarvamshi1832@gmail.com**
+- my portfolio--portfolio-psi-sepia-27.vercel.app
 
 ---
 
