@@ -27,7 +27,7 @@
 - 🏋️ Built a **Gym App** frontend using React — live on Vercel  
 - 🤝 I believe clean code + good UI = great product  
 - 📬 Reach me at **kumarvamshi1832@gmail.com**
-- my portfolio--**portfolio-psi-sepia-27.vercel.app**
+- my portfolio--[**portfolio-psi-sepia-27.vercel.app**](https://portfolio-psi-sepia-27.vercel.app/)
 
 ---
 
